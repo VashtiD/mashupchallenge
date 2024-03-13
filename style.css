@@ -1,0 +1,16 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+
+img {
+  width: 150px;
+  height: 150px;
+  border: 5px solid #d5c9aa;
+  border-radius: 10px;
+  gradiend-radius: 10px;
+  
+}
+body{
+background-color: #bac4be; 
+  font-size:16px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
